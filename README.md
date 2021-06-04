@@ -1,2 +1,3 @@
 ### Description
-Create initial Fastify Node.js web server, initialize as a Node.js project folder using Node Package Manager (npm), add Fastify to project using npm, and test using Visual Studio Code (VSCode), add git repo, exclude node_modules folder from git, make commits, fix MIME error, test, and commit, and add a second route with query parameters, test, and commit.
+
+  Download and install Postman, create a CIT 281 collection and folders, create a Node.js and fastify server application with GET and respond with JSON, add array of students object, use Postman to test server GET routes, add POST handling to server application and respond with JSON, and Use Postman and POST request.
